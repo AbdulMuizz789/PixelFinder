@@ -8,12 +8,18 @@ Using Deep Learning techniques, predict the coordinates (x,y) of a pixel which h
 ## Prerequisites:
 - Python 3
 - Jupyter
-Download the code in this repository or clone the repository into desired empty directory `git clone https://github.com/AbdulMuizz789/PixelFinder.git`
+
+Download the code in this repository or clone the repository into desired directory 
+```bash
+git clone https://github.com/AbdulMuizz789/PixelFinder.git
+cd PixelFinder
+```
+
 Install all the required libraries (Numpy, Matplotlib, and Tensorflow)
-**Note:** You can run the notebook without installing anything. Go to the colab link in the notebook. (See [running](#running) section below)
 ```bash
 pip install -r requirements.txt
 ```
+**Note:** You can run the notebook without installing anything. Go to the colab link in the notebook. (See [running](#running) section below)
 
 ## Running
 - Open the notebook using Jupyter lab or through the command:
